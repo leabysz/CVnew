@@ -84,8 +84,8 @@ const Layout = ({ children }) => {
       <Block isNegative title="About me">
         <p>
           I'm Bruno Paulette, a 30 years old programmer.
-          My personal and professional goals are aimed towards making a great impact in the people I work with. I love try new things, learning and meet new challenges.
-          I'm invested mostly in Front-End development and Analytics but I also have had experience working in other areas such as Blockchain and Campaign Manager.
+          My personal and professional goals are aimed towards making a great impact on the people I work with. I love trying new things, learning and meeting new challenges.
+          I'm invested mostly in Front-End development and Analytics but I also have experienced working in other areas such as Blockchain and Campaign Manager.
         </p>
       </Block>
       <Block isNegative title="Contact Information">
