@@ -34,11 +34,19 @@ const referenceList = [
     companyLink: 'https://www.lemonchiligames.com/',
     email: 'andresbazzurro@gmail.com ',
     phone: '+59899290664',
-  }
+  },
+  {
+    name: 'Andres Techera',
+    position: 'Staff Engineer',
+    company: 'OJO Labs',
+    companyLink: 'https://ojolabs.com/',
+    email: 'c_atechera@ojolabs.com',
+    phone: '+59898935899'
+  },
 ];
 
 const technologyList = [
-  'HTML', 'CSS', 'JS', 'Git', 'React', 'NodeJS', 'Bash', 'MySQL', 'JQuery',
+  'HTML', 'CSS', 'JS', 'Git', 'React', 'NodeJS', 'Bash', 'JQuery',
 ];
 
 const softwareList = [
@@ -46,7 +54,7 @@ const softwareList = [
 ];
 
 const methodologiesList = [
-  
+
 ];
 
 const contactInfo = {
@@ -93,8 +101,8 @@ const Layout = ({ children }) => {
       </Block>
       <Block title="Skills">
         <p>
-         
-          My core strengths are in the Front-End area of development, mostly in <strong><a href="https://reactjs.org" title="Visit React homepage" rel='noreferrer' target='_blank'>React</a></strong>,             <strong>javascript</strong>, <strong><acronym title='Hypertext Markup Language'>HTML</acronym></strong> and <strong><acronym title='Cascading Style Sheets'>CSS</acronym></strong>
+
+          My core strengths are in the Front-End area of development, mostly in <strong>React</strong>,             <strong>JavaScript</strong>, <strong><acronym title='Hypertext Markup Language'>HTML</acronym></strong> and <strong><acronym title='Cascading Style Sheets'>CSS</acronym></strong>
         </p>
         <InlineList title="Technologies" items={technologyList} isNegative />
 
