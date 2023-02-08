@@ -91,7 +91,7 @@ const Layout = ({ children }) => {
       <Header siteTitle={data.site.siteMetadata?.title || `Title`} siteDescription={data.site.siteMetadata?.description} />
       <Block isNegative title="About me">
         <p>
-          I'm Bruno Paulette, a 30 years old programmer.
+          I'm Bruno Paulette, a 31 years old programmer.
           My personal and professional goals are aimed towards making a great impact on the people I work with. I love trying new things, learning and facing new challenges.
           I'm invested mostly in Front-End development and Analytics but I also have experience working in other areas such as Blockchain and Campaign Manager.
         </p>
