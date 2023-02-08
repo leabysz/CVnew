@@ -53,9 +53,9 @@ const softwareList = [
   'Visual Studio Code', 'Visual Studio',
 ];
 
-const methodologiesList = [
+/* const methodologiesList = [
 
-];
+]; */
 
 const contactInfo = {
   linkedin: 'https://www.linkedin.com/in/bruno-paulette/',
