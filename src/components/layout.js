@@ -21,7 +21,7 @@ import InlineList from "./inlineList"
 const referenceList = [
   {
     name: 'Ernesto Speranza',
-    position: 'Blockchain Developer',
+    position: 'Core Developer',
     company: 'Agrotoken',
     companyLink: 'https://agrotoken.io/',
     email: 'ernestosperanza@gmail.com',
@@ -38,8 +38,8 @@ const referenceList = [
   {
     name: 'Andres Techera',
     position: 'Staff Engineer',
-    company: 'OJO Labs',
-    companyLink: 'https://ojolabs.com/',
+    company: 'OJO',
+    companyLink: 'https://ojo.com/',
     email: 'c_atechera@ojolabs.com',
     phone: '+59898935899'
   },
