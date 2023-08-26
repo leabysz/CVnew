@@ -91,9 +91,7 @@ const Layout = ({ children }) => {
       <Header siteTitle={data.site.siteMetadata?.title || `Title`} siteDescription={data.site.siteMetadata?.description} />
       <Block isNegative title="About me">
         <p>
-          I'm Bruno Paulette, a 31 years old programmer.
-          My personal and professional goals are aimed towards making a great impact on the people I work with. I love trying new things, learning and facing new challenges.
-          I'm invested mostly in Front-End development and Analytics but I also have experience working in other areas such as Blockchain and Campaign Manager.
+          I am Bruno Paulette, a 32-year-old software developer specializing in Front-End Development and Analytics. With a steadfast commitment to both my personal and professional growth, I aim to make a significant impact on the teams and projects I contribute to. Passionate about innovation and learning, I relish the opportunity to tackle new challenges. While my expertise primarily lies in Front-End development and Analytics, I also bring experience in diverse fields such as Blockchain technology and Campaign Management.
         </p>
       </Block>
       <Block isNegative title="Contact Information">
@@ -102,7 +100,7 @@ const Layout = ({ children }) => {
       <Block title="Skills">
         <p>
 
-          My core strengths are in the Front-End area of development, mostly in <strong>React</strong>,             <strong>JavaScript</strong>, <strong><acronym title='Hypertext Markup Language'>HTML</acronym></strong> and <strong><acronym title='Cascading Style Sheets'>CSS</acronym></strong>
+          My core strengths are in the Front-End area of development, mostly in <strong>React</strong>,             <strong>JavaScript</strong>, <strong><acronym title='Hypertext Markup Language'>HTML</acronym></strong> and <strong><acronym title='Cascading Style Sheets'>CSS</acronym></strong>. In the realm of Analytics, my strengths extend to Data Expertise, Strategic Planning, Leadership Skills, Quality Assurance, Team Development, and Analytical Thinking. These skills collectively position me as a versatile asset capable of delivering both technical excellence and strategic insights.
         </p>
         <InlineList title="Technologies" items={technologyList} isNegative />
 
