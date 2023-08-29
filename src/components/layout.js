@@ -36,6 +36,22 @@ const referenceList = [
     phone: '+59899290664',
   },
   {
+    name: 'Mauricio Acha',
+    position: 'Project Manager',
+    company: 'TakeOff Media',
+    companyLink: 'https://takeoffmedia.com/',
+    email: 'mauricioa@takeoffmedia.com',
+    phone: '+59891241102'
+  },
+  {
+    name: 'Ignacio Bazzano',
+    position: 'CEO',
+    company: 'TakeOff Media',
+    companyLink: 'https://takeoffmedia.com/',
+    email: 'ignaciob@takeoffmedia.com',
+    phone: ''
+  },
+  {
     name: 'Andres Techera',
     position: 'Staff Engineer',
     company: 'OJO',
