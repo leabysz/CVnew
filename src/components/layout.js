@@ -62,11 +62,11 @@ const referenceList = [
 ];
 
 const technologyList = [
-  'HTML', 'CSS', 'JS', 'Git', 'React', 'NodeJS', 'C#', 'SQL', 'Bash', 'JQuery',
+  'HTML', 'CSS', 'JS', 'Git', 'React', 'NodeJS', 'JQuery',
 ];
 
 const softwareList = [
-  'Visual Studio Code', 'Visual Studio', 'SQL Server Management Studio'
+  'Visual Studio Code', 'Visual Studio',
 ];
 
 /* const methodologiesList = [
